@@ -1,1 +1,2 @@
 this is just the file 2
+this line was added in our local Git repo
